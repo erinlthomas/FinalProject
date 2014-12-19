@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  person_first_name: MyString
+  person_last_name: MyString
+  person_initial: MyString
+  person_birthdate: 2014-12-19
+  person_country: MyString
+  person_role: MyString
+  band_id_id: 
+
+two:
+  person_first_name: MyString
+  person_last_name: MyString
+  person_initial: MyString
+  person_birthdate: 2014-12-19
+  person_country: MyString
+  person_role: MyString
+  band_id_id: 

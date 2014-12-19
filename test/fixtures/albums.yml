@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  album_title: MyString
+  album_release_date: 2014-12-19
+  band_id_id: 
+
+two:
+  album_title: MyString
+  album_release_date: 2014-12-19
+  band_id_id: 
